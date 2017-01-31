@@ -1,2 +1,3 @@
 # TPT-123
 wifi/bluetooth control for servo 3 position motor. 
+I am interested in making an app that will control a single servo motor via wifi or blue tooth. I have no programming experience...
